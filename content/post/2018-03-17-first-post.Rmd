@@ -1,0 +1,12 @@
+---
+title: first post
+author: normalct
+date: '2018-03-17'
+slug: first-post
+categories:
+  - R
+tags:
+  - plot
+---
+
+Hi, this is my first post. {='ㅅ'=}
